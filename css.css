@@ -1,0 +1,23 @@
+button {
+    position: center;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    margin-top: 100px;
+}
+p {
+    margin-bottom: 10px;
+}
+.xxlong {
+    margin-left: 90px;
+}
+
+.xxpass {
+    margin-left: 150px;
+}
